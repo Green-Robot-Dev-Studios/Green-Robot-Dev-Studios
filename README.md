@@ -3,7 +3,7 @@
 
 - 😄 Pronouns: He/Him
 
-- 🔭 I’m currently working on [CSAChat](https://github.com/AustinKol/CSAchat)
+- 🔭 I’m currently working on [nicks-simple-os](https://github.com/Green-Robot-Dev-Studios/nicks-simple-os)
 
 - 🌱 I’m currently learning **React, Assembly**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me [**nick@nicholasficara.dev**](mailto://nick@nicholasficara.dev)
 
-- 📄 Know about my experiences [CV](https://nicholasficara.dev/files/Nicholas_Ficara_CV_20201230.pdf)
+- 📄 Know about my experiences [CV](https://nicholasficara.dev/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
