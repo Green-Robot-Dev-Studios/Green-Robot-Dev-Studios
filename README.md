@@ -1,5 +1,5 @@
 ```math
-\ce{$\unicode[goombafont; pointer-events: none; z-index: 100; position: fixed; left: 0; top: 0; width: 100%; height: 100%; background-image: url(https://github.com/Green-Robot-Dev-Studios/Green-Robot-Dev-Studios/assets/29438381/693da023-117f-4f37-9766-6ca669cd135c); background-size: cover;]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; pointer-events: none; z-index: 100; position: fixed; left: 0; top: 0; width: 100%; height: 100%; background-image: url(https://github.com/Green-Robot-Dev-Studios/Green-Robot-Dev-Studios/assets/29438381/693da023-117f-4f37-9766-6ca669cd135c); background-size: cover;]{x0000}$}
 
 <h1 align="center">Hi 👋, I'm Nicholas Ficara</h1>
 <h3 align="center">A hardworking developper from Ottawa, Canada!</h3>
